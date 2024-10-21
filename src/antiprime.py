@@ -29,13 +29,13 @@ def main(x):
     # Imprimir resultado
     print("anti-prime")
 
+x = int(input("Enter a positive integer number: "))
    
 ## DO NOT REMOVE THIS LINE BELOW
 if __name__ == "__main__":
     # Definición de la variable x con input del usuario
- x = int(input("Enter a positive integer number: "))
     # Llamada a main(x)
- main(x)
+    main(x)
 	## IDENTATION AS THIS COMMENT
 	## THE LAST LINES OF YOUR CODE SHOULD EITHER
 	## RETURN THE VALUE "anti-prime" or "not anti-prime"
