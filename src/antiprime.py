@@ -36,7 +36,6 @@ if __name__ == "__main__":
     # Llamada a main(x)
 main(x)
 
-
 	## IDENTATION AS THIS COMMENT
 	## THE LAST LINES OF YOUR CODE SHOULD EITHER
 	## RETURN THE VALUE "anti-prime" or "not anti-prime"
